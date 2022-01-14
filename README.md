@@ -1,5 +1,5 @@
 # PasswordManager
-Code allows the user to create and manage all account login details.
+Tool which allows the user to create and manage all account login details.
 
 Convenient application to help manage all account login information, with interactive GUI.
 
